@@ -1,6 +1,7 @@
 # Tabu Search on Product Line Design
 
 
+
 ## Development
 This work was part of the seminar thesis I wrote in the Fall semester 2021 at the Chair of Revenue Management [Prof. Dr. Cornelia Schön](https://www.bwl.uni-mannheim.de/schoen/ "Prof. Dr. Cornelia Schön"), University of Mannheim on product line design optimization. 
 
