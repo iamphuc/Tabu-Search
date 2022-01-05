@@ -18,7 +18,14 @@ TS is able to identify the global optimum in this 2D multimodal function thanks 
 If we consider Greedy Approach, there are two potential issues. First, Greedy Approach could stop at the local optimum. If we start on the very left of our 2D example, we will stop at the local optimum. Second, Greedy Approach is blind to further search space. In Greedy Approach, there is no mechanism that allows acceptance of solutions that are less than the previous one. Suppose we started Greedy Approach in the middle of the function, we would end up at the global optimum. But actually we don't know that.
 
 ## Environment
-For this particular project, I use Microsoft Excel to implement TS. The file is visible in the main tab or can be accessed via this [link](https://github.com/iamphuc/Tabu-Search/blob/main/OPM_781_Software_Nguyen_Phuc.xlsx)
+For this particular project, I use Microsoft Excel to implement TS. The file is visible in the main tab or can be accessed via this [link](https://github.com/iamphuc/Tabu-Search/blob/main/OPM_781_Software_Nguyen_Phuc.xlsx).
+
+The file contains:
+1. The mathematical formulation of the problem, 
+2. Thedataset, 
+3. Brute Force Search, 
+4. TS, 
+5. Result.
 
 ## License
 This repository contains a [MIT LICENSE](https://github.com/iamphuc/Tabu-Search/blob/main/LICENSE)
