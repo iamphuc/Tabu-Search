@@ -9,3 +9,6 @@ In this project, I tried to solve Product Line Design (PLD) problem using Tabu S
 * Tsafarakis, Stelios; Zervoudakis, Konstantinos; Andronikidis, Andreas (2021): Optimal product line design using Tabu Search. In Journal of the Operational Research Society, pp. 1–12.
 
 ![](images/Tabu%20Search%202D%20Demonstration.gif)
+
+## License
+This repository contains a [MIT LICENSE](https://github.com/iamphuc/Tabu-Search/blob/main/LICENSE)
