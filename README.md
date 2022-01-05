@@ -13,6 +13,6 @@ In this project, I tried to solve Product Line Design (PLD) problem using Tabu S
 ## Demonstration
 ![](images/Tabu%20Search%202D%20Demonstration.gif)
 
-TS is able to identify the global optimum in this 2D multimodal function thanks to its **Tabu Move** 
+TS is able to identify the global optimum in this 2D multimodal function thanks to its **Tabu Move** feature. Once a certain move is kept in memory as a tabu move, the algorithm doesn't allow dialing back to the tabu move anymore. Thus further exploration in the search space is possible. In our case, as the algorithm finds lower points beyond the tabu move, we can say that the tabu move is the global optimum. This is indeed the case because the other optimum is only the local optimum.  
 ## License
 This repository contains a [MIT LICENSE](https://github.com/iamphuc/Tabu-Search/blob/main/LICENSE)
