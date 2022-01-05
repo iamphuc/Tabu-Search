@@ -28,7 +28,7 @@ The file contains:
 
 ## TS Implementation
 Specific steps of implementation is shown in the below diagram.
-
+![](images/TS%20Implementation%20Step.jpg)
 
 ## Reference
 
