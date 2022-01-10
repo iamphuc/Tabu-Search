@@ -3,7 +3,7 @@
 ![](images/Brute%20Force%20versus%20Tabu%20Search.JPG)
 
 ## Development
-This work was part of the seminar thesis I wrote in the Fall semester 2021 at the Chair of Revenue Management [Prof. Dr. Cornelia Schön](https://www.bwl.uni-mannheim.de/schoen/ "Prof. Dr. Cornelia Schön"), University of Mannheim on product line design optimization. 
+This work was part of the seminar thesis I wrote in the Fall Semester 2021 at the Chair of Revenue Management [Prof. Dr. Cornelia Schön](https://www.bwl.uni-mannheim.de/schoen/ "Prof. Dr. Cornelia Schön"), University of Mannheim on product line design optimization. 
 
 ## Background
 The original Product Line Design (PLD) problem is the profit maximization of a 7-product line. This can be solved using commercial optimization program such as AMPL. However, for implementation purpose in Microsoft Excel, I choose to solve the profit maximiation of 1-product line. Additional information about the problem and procedure is shown in the Environment and Implementation Section.
