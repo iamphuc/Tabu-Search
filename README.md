@@ -2,6 +2,8 @@
 
 ![](images/Brute%20Force%20versus%20Tabu%20Search_v2.JPG)
 
+Result Comparison Between Brute Force and Tabu Search
+
 ## Development
 This work was part of the seminar thesis I wrote in the Fall Semester 2021 at the Chair of Service Operations Management [Prof. Dr. Cornelia Schön](https://www.bwl.uni-mannheim.de/schoen/ "Prof. Dr. Cornelia Schön"), University of Mannheim on product line design optimization. 
 
